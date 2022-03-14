@@ -1,0 +1,126 @@
+{
+    "restaurants": [
+        {
+            "id": 63601,
+            "name": "Sitara zone",
+            "city": "Delhi",
+            "locality": "Pitampura, New Delhi",
+            "thumb": "https://b.zmtcdn.com/data/pictures/chains/3/6303/640252389ddc3f264dd0e9f2741e73cd.jpg",
+            "aggregate_rating": 3.5,
+            "rating_text": "Very Good",
+            "min_price": 230
+        },
+        {
+            "id": 307406,
+            "name": "Pandit Ji Parantha Hut",
+            "locality": "Ashok Vihar Phase 2",
+            "city": "Delhi",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208drede923c9.jpg",
+            "aggregate_rating": 2.5,
+            "rating_text": "Very Good",
+            "min_price": 530
+        },
+        {
+            "id": 312346,
+            "name": "Swagath Grand",
+            "locality": "A.S rao Nagar near Sharadha complex",
+            "city": "Hyderabad",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d4328ddde923c9.jpg",
+            "aggregate_rating": 3.0,
+            "rating_text": "Very Good",
+            "min_price": 650
+        },
+        {
+            "id": 123606,
+            "name": "World Favourite Grand",
+            "locality": "Paradise circle",
+            "city": "Hyderabad",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0241cd9140f230d8208ddde923c9.jpg",
+            "aggregate_rating": 3.5,
+            "rating_text": "Very Good",
+            "min_price": 750
+        },
+        {
+            "id": 307406,
+            "name": "Novotel",
+            "locality": "Anand Vihar near Global society",
+            "city": "Pune",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208ddde923c9.jpg",
+            "aggregate_rating": 3.0,
+            "rating_text": "Very Good",
+            "min_price": 570
+        },
+        {
+            "id": 245686,
+            "name": "Big Greenlands",
+            "locality": "Chennai",
+            "city": "Mumbai",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208ddde923c9.jpg",
+            "aggregate_rating": 2.5,
+            "rating_text": "Very Good",
+            "min_price": 440
+        },
+        {
+            "id": 312306,
+            "name": "Woodland hotel",
+            "locality": "Anand Vihar near Global society",
+            "city": "Pune",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208ddde923c9.jpg",
+            "aggregate_rating": 2.5,
+            "rating_text": "Very Good",
+            "min_price": 150
+        }
+    ],
+   "user": [
+            {
+                "firstname": "Jerry",
+                "lastname": "Konidela",
+                "email": "jerrytommy67@gmail.com",
+                "password": "rainbow@"
+            },
+            {
+                "firstname": "Vani",
+                "lastname": "Chintala",
+                "email": "vaniwait23@gmail.com",
+                "password": "playground"
+            },
+            {
+                "firstname": "Ram charan",
+                "lastname": "Darshan",
+                "email": "ram990099@gmail.com",
+                "password": "darling123"
+            }
+        ],
+      "mealytpe": [
+            {
+                "id": 1,
+                "name": "breakfast",
+                "meal-type": 1
+            },
+            {
+                "id": 2,
+                "name": "lunch",
+                "meal-type": 2
+            },
+            {
+                "id": 3,
+                "name": "dinner",
+                "meal-type": 3
+            },
+            {
+                "id": 4,
+                "name": "snacks",
+                "meal-type": 4
+            },
+            {
+                "id": 5,
+                "name": "drinks",
+                "meal-type": 5
+            },
+            {
+                "id": 6,
+                "name": "nightlife",
+                "meal-type": 6
+            }
+        ]
+    }
